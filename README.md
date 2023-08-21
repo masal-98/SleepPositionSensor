@@ -1,5 +1,6 @@
 ## Sleep position classifier
 ## Objective
+![image](https://github.com/masal-98/SleepPositionSensor/blob/a594998f749888099a4c6d324939a6d261c1fc94/Eagle%20-%20PCB%20design/pcb%20design.PNG)
 ![image](https://user-images.githubusercontent.com/100738621/178038332-7114b885-f36a-4cbb-af34-71ec64025219.png)
 
 The aim of this project was to develop a system able to correctly classify and forecast **12 specific sleep positions** (visible in the image above), using the data from **two accelerometers LIS3DH** placed one on the chest and one on the right ankle. 
