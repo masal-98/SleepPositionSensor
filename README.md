@@ -1,8 +1,9 @@
-# Electronic Technologies and Biosensors Laboratory
+<! --- # Electronic Technologies and Biosensors Laboratory
 
-## Academic Year 2021/2022 - II Semester
+/## Academic Year 2021/2022 - II Semester --->
 
-## Final Project - Project 5 - Sleep position classifier
+## Final Project - Project 5 - 
+## Sleep position classifier
 ## Objective
 ![image](https://user-images.githubusercontent.com/100738621/178038332-7114b885-f36a-4cbb-af34-71ec64025219.png)
 
